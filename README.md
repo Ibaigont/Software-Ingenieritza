@@ -1,4 +1,4 @@
-# Software Ingenieritza - [Proiektuaren Izena]
+# Software Ingenieritza 
 
 ![Egoera](https://img.shields.io/badge/Egoera-Garapenean-yellow) ![Lengoaia](https://img.shields.io/badge/Lengoaia-Java-orange) ![Lizentzia](https://img.shields.io/badge/Lizentzia-MIT-blue)
 
